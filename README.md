@@ -1,4 +1,4 @@
-# Search Enging Wikipedia - IR project
+# Building a search engine for English Wikipedia - IR project
 Search engine for entire wikipedia corpus made as minor project in course taken in semester 3, Information Retrieval  course.
 
 ## **Utility**
